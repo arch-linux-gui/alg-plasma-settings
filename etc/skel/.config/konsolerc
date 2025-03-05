@@ -1,6 +1,9 @@
 [Desktop Entry]
 DefaultProfile=Profile 1.profile
 
+[KonsoleWindow]
+RememberWindowSize=false
+
 [MainWindow]
 HDMI-1 Height 1600x900=395
 HDMI-1 Width 1600x900=1592
