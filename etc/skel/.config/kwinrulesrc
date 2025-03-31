@@ -1,2 +1,14 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[8c38ae8a-1eab-47b6-8287-fdacd553ba1c]
+Description=Application settings for io.calamares.calamares
+desktopfile=calamares
+desktopfilerule=3
+wmclass=\sio.calamares.calamares
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1
+rules=8c38ae8a-1eab-47b6-8287-fdacd553ba1c
