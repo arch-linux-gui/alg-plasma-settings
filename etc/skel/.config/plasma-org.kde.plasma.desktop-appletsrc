@@ -70,7 +70,7 @@ DialogWidth=720
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
-icon=archlinux
+icon=alg-logo-blue
 systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
