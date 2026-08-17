@@ -3,7 +3,7 @@ AntiAliasFonts=true
 BoldIntense=true
 ColorScheme=Breeze
 DimmValue=128
-Font=Hack,10,-1,7,50,0,0,0,0,0
+Font=Hack,11,-1,7,50,0,0,0,0,0
 LineSpacing=0
 TabColor=invalid
 UseFontLineChararacters=false
@@ -29,9 +29,9 @@ ShowTerminalSizeHint=true
 SilenceSeconds=10
 StartInCurrentSessionDir=true
 TerminalCenter=false
-TerminalColumns=102
+TerminalColumns=105
 TerminalMargin=1
-TerminalRows=24
+TerminalRows=25
 
 [Interaction Options]
 AllowEscapedLinks=false
