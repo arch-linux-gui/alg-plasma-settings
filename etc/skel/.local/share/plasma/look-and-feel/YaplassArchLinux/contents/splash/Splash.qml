@@ -29,7 +29,7 @@ Rectangle {
         Image {
             id: logo
             //match SDDM/lockscreen avatar positioning
-            property real size: units.gridUnit * 8
+            property real size: units.gridUnit * 12
 
             anchors.centerIn: parent
 
@@ -41,7 +41,8 @@ Rectangle {
 
         Image {
             id: busyIndicator
-            y: parent.height - (parent.height - logo.y) / 2 - height/1
+            anchors.top: logo.bottom
+            anchors.topMargin: units.gridUnit * 2
             anchors.horizontalCenter: parent.horizontalCenter
             source: "images/busy.png"
             sourceSize.height: units.gridUnit * 3
